@@ -1,4 +1,6 @@
 FROM ruby:2.3
+MAINTAINER Aristotelis Christou <telischristou@gmail.com>
+
 
 RUN mkdir data
 EXPOSE 9292
